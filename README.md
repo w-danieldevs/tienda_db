@@ -1,4 +1,7 @@
-base de datos que utiliza la cambie un poco  [tienda_db.sql](https://github.com/user-attachments/files/34485379/tienda_db.sql)
+base de datos que utiliza la cambie un poco 
+   
+[tienda_db.sql](https://github.com/user-attachments/files/34485469/tienda_db.sql)
+
 CREATE SCHEMA tienda_db;
 USE tienda_db;
 -- drop database tienda_db;
